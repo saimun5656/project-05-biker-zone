@@ -1,0 +1,33 @@
+
+header{
+    width:92vw !important;
+    max-width: 1220px !important;
+}
+main{
+    width:92vw !important;
+    max-width: 1220px !important;
+}
+.bz-carousel-color{
+    background-color: rgb(165, 104, 104);
+    
+}
+.hot-bikes img{
+  width: 100%;
+}
+/* .banner{
+    background-color:#E76F511A !important;
+} */
+.clients-container{
+    width: 80vw;
+}
+.footer .row{
+    width:92vw !important;
+    max-width: 1220px !important;
+}
+
+@media screen and (max-width:576px) {
+.clients-container{
+    width: 93vw !important;
+
+}
+    }
